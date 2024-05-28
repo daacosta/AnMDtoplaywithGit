@@ -1,0 +1,3 @@
+# A simple file for me to play
+
+This is it, I am learning Git...
