@@ -10,4 +10,6 @@ A simple equation:
 
 $$E=mc^2$$
 
+***
+
 OK, well.  The objective of this is to play around with Markdown files, learn git, etc.  I'd also like to use Pandoc here.  Quarto can wait a while...
