@@ -13,3 +13,7 @@ $$E=mc^2$$
 ***
 
 OK, well.  The objective of this is to play around with Markdown files, learn git, etc.  I'd also like to use Pandoc here.  Quarto can wait a while...
+
+## On learning git and git hub
+
+I am using a free open platform to learn: [Openclassrooms](https://openclassrooms.com/en/search?query=git) where I queried for a git and git hub course.  That was it...
