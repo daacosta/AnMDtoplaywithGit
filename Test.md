@@ -17,3 +17,5 @@ OK, well.  The objective of this is to play around with Markdown files, learn gi
 ## On learning git and git hub
 
 I am using a free open platform to learn: [Openclassrooms](https://openclassrooms.com/en/search?query=git) where I queried for a git and git hub course.  That was it...
+
+Now, why git? what's its purpose?  To be able to keep control of software versions.
