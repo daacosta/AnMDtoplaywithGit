@@ -30,3 +30,5 @@ The following platforms have remote repositories to host your projects:
 1. [GitHub](https://github.com/)
 2. [GitLab](https://about.gitlab.com)
 3. [Bitbucket](https://bitbucket.org)
+
+Not too bad, so far so good... I have understood everything.  But I need to do more...
