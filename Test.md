@@ -24,3 +24,7 @@ Now, why git? what's its purpose?  To be able to keep control of software versio
 
 - **Local:** My computer.
 - **Remote:** The cloud or a server with my code history and folders and such...
+
+The following platforms have remote repositories to host your projects:
+
+1. [GitHub](www.github.com)
