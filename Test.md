@@ -28,4 +28,4 @@ Now, why git? what's its purpose?  To be able to keep control of software versio
 The following platforms have remote repositories to host your projects:
 
 1. [GitHub](https://github.com/)
-2. [GitLab](https://about.gitlab.com))
+2. [GitLab](https://about.gitlab.com)
