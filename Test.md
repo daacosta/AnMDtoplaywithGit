@@ -22,5 +22,5 @@ Now, why git? what's its purpose?  To be able to keep control of software versio
 
 ## Local and remote repositories
 
-**Local:** My computer.
-**Remote:** The cloud or a server with my code history and folders and such...
+- **Local:** My computer.
+- **Remote:** The cloud or a server with my code history and folders and such...
