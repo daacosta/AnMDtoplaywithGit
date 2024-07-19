@@ -36,3 +36,5 @@ Not too bad, so far so good... I have understood everything.  But I need to do m
 I am using github and I am already working with it.
 
 Opening a github account is as easy as visiting and following the instructions of [github's website](https://github.com) No big deal.  I even used my gmail account to work with this.
+
+The remaining piece of software comes from [git's website](https://git-scm.com) (not to be confused with github: github is a repository and git is a version control system.)  Now, this is also easy and what you will get is git and git bash which is another command interface.
